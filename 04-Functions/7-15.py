@@ -9,3 +9,5 @@ def f(n):
         a, b = b, a + b  
     
     return b
+
+print(f(5))
